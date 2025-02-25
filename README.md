@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Cauê, or Bruno, a Software Developer
+# Hi there! 👋 I'm Bruno, a Software Developer
 
 ## About Me
 - 📱 I specialize in developing mobile apps and games for both mobile devices and IoT.
@@ -9,7 +9,7 @@
 ## Interests
 - 🛹 I'm a skateboarder who loves carving up the streets.
 - 🥁 Drumming is another hobby that keeps me in rhythm.
-- 🇫🇷 Currently, I'm on a journey to learn the beautiful French language.
+- 🇫🇷 Currently, I'm on a journey to learn the beautiful language that French is.
 
 ## Get in Touch
 Feel free to reach out if you have any questions or just want to connect. I'm always open to chat and collaborate! 😊
